@@ -6,7 +6,7 @@ HWK4= /c/cs223/Hwk4
 HWK5= /c/cs223/Hwk5
 
 #####
-# Instructions to make pancake
+# Instructions to make Boggle
 #####
 
 Boggle: Boggle.o trie.o
